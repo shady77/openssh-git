@@ -2,8 +2,6 @@
 
 Docker images for OpenSSH with GIT
 
-Based on the [official Golang image](http://registry.hub.docker.com/_/golang/).
-
 [![shadowy/openssh-git][docker-pulls-image]][docker-hub-url] [![shadowy/openssh-git][docker-stars-image]][docker-hub-url]
 
 ## Supported Docker versions
